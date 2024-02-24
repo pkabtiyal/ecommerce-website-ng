@@ -25,3 +25,5 @@ Thumbs.db
 .env.prod.remote
 .env.stage
 .env.dev
+
+.angular/cache/

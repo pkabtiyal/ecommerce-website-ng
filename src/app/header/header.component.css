@@ -1,0 +1,47 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.nav h1 {
+    color: brown;
+    margin: 0;
+    font-size: 40px;
+}
+
+.nav ul {
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: brown;
+}
+.nav .search {
+    margin-top: 5px;
+    flex: 1;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.nav .search input {
+    flex: 1;
+    color: brown;
+    border: 1px solid brown;
+    height: 35px;
+    border-right: 0;
+}
+
+.nav .search button {
+    color: brown;
+    border: 1px solid brown;
+    height: 39px;
+    border-left: 0;
+}
