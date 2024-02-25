@@ -1,10 +1,22 @@
 {
-    "seller": [
-        {
-            "name": "Prachi kabtiyal",
-            "email": "pk223344@gmail.com",
-            "password": "pk223344",
-            "id": "1"
-        }
-    ]
+  "sellers": [
+    {
+      "name": "Prachi kabtiyal",
+      "email": "pk223344@gmail.com",
+      "password": "pk223344",
+      "id": "1"
+    },
+    {
+      "id": "7eea",
+      "name": "Abhishek",
+      "password": "abhi223344",
+      "email": "abhi233@gma.com"
+    },
+    {
+      "id": "5072",
+      "name": "okokss",
+      "password": "dmjnsmdnsjm",
+      "email": "sdmdmsndmsnd@jnk.com"
+    }
+  ]
 }
